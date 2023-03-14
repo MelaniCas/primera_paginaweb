@@ -1,0 +1,16 @@
+body{
+    color: indianred;
+    /*Ponerle color al fondo*/
+    background-color:rgb(82, 7, 69);
+    front-family: 'Quicksand',
+    sans-serif;
+}
+
+h1{
+    color:deeppink;
+    font-size: 70px;
+}
+
+h3{
+    color:darkmagenta;
+}
